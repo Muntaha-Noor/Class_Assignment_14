@@ -6,7 +6,7 @@ A database is like a digital diary 📝 where all your data is stored in an orga
 
 ## 🌟 Types of Databases
 
-###1. 🗄️ Relational Database (RDBMS):
+## 1. 🗄️ Relational Database (RDBMS):
 Data is stored in tables 📊, and the tables are connected to each other.
 Example: MySQL, SQL Server
 
